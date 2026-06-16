@@ -127,7 +127,7 @@ Volunteer Registered Successfully!
 
 ## Output Screenshot
 
-![Project Output](output.png)
+![Project Output](output .png)
 
 ---
 
