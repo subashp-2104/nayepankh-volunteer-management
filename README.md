@@ -4,7 +4,7 @@
 
 The NayePankh Foundation Volunteer Management System is a Python-based application developed to help NGOs efficiently manage volunteer information.
 
-This project allows users to register volunteers, search volunteer records, filter volunteers based on skills, and generate simple reports. Volunteer data is stored in a CSV file, making it simple, lightweight, and beginner-friendly.
+This project allows users to register volunteers, search volunteer records, filter volunteers based on skills, and generate simple reports. All volunteer data is stored in a CSV file for easy access and management.
 
 ---
 
@@ -77,10 +77,6 @@ Stores volunteer details such as:
 - Email Address
 - Skill
 
-### View Volunteers
-
-Displays all registered volunteer records.
-
 ### Search Volunteer
 
 Search volunteers using their name.
@@ -127,7 +123,7 @@ Volunteer Registered Successfully!
 
 ## Output Screenshot
 
-![Project Output](output .png)
+![Project Output](output.png)
 
 ---
 
@@ -174,8 +170,4 @@ social-impact
 
 ---
 
-## Conclusion
-
-This project demonstrates the use of Python, file handling, data storage, searching, filtering, and report generation in a real-world NGO management scenario. It is designed to be simple, practical, and suitable for beginners while providing meaningful functionality for volunteer management.
-
-⭐ If you found this project useful, consider giving it a star on GitHub
+⭐ If you found this project useful, consider giving it a star on GitHub.
